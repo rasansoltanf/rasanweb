@@ -23,3 +23,4 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+console.log('این web به دست راسان سلطانی ساخته شده است')
