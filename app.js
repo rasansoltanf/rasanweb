@@ -23,4 +23,3 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
-console.log('this is rasan's web )
